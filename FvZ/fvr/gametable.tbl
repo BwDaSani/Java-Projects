@@ -1,0 +1,124 @@
+splash_image	-	0	splash.jpg	-	
+
+
+mybackground	-	0	Field.jpg	-
+
+
+anim_sheet10	TankBurger.gif	0	0	138	87	0	0
+TB_1	-	0	anim_sheet10	0	-
+TB_2	-	0	anim_sheet10	1	-
+TB_3	-	0	anim_sheet10	2	-
+TB_4	-	0	anim_sheet10	3	-
+TB_5	-	0	anim_sheet10	4	-
+TB_6	-	0	anim_sheet10	5	-
+TB_7	-	0	anim_sheet10	6	-
+TB_8	-	0	anim_sheet10	7	-
+TB_9	-	0	anim_sheet10	8	-
+TB_10	-	0	anim_sheet10	9	-
+TB_11	-	0	anim_sheet10	10	-
+TB_12	-	0	anim_sheet10	11	-
+TankBurger	TB_1;TB_1;	0.3	false
+TankBurgerA	TB_1;TB_2;TB_3;TB_4;TB_5;TB_6;TB_7;TB_8;TB_9;TB_10;TB_11;TB_12;	0.25	false
+
+
+anim_sheet11	Robot1.gif	0	0	39	66	0	0
+R1_1	-	0	anim_sheet11	0	-
+R1_2	-	0	anim_sheet11	1	-
+R1_3	-	0	anim_sheet11	2	-
+R1_4	-	0	anim_sheet11	3	-
+R1_5	-	0	anim_sheet11	4	-
+R1_6	-	0	anim_sheet11	5	-
+R1_7	-	0	anim_sheet11	6	-
+R1_8	-	0	anim_sheet11	7	-
+R1_9	-	0	anim_sheet11	8	-
+R1_10	-	0	anim_sheet11	9	-
+Robot1	R1_1;R1_2;R1_3;R1_4;R1_5;R1_6;R1_7;R1_8;R1_9;	0.3	false
+Robot1H	R1_1;R1_10;R1_2;R1_10;R1_3;R1_10;R1_4;R1_10;R1_5;R1_10;R1_6;R1_10;R1_7;R1_10;R1_8;R1_10;R1_9;R1_10;	0.3	false
+
+
+anim_sheet12	TankBurgerBullet.gif	0	0	19	30	0	0
+TBB_1	-	0	anim_sheet12	0	-
+TBB	TBB_1;	0.3	false
+
+
+anim_sheet13	CashRegister.gif	0	0	78	78	0	0
+CR_1	-	0	anim_sheet13	0	-
+CR_2	-	0	anim_sheet13	1	-
+CR_3	-	0	anim_sheet13	2	-
+CR_4	-	0	anim_sheet13	3	-
+CR_5	-	0	anim_sheet13	4	-
+CashRegister	CR_1;	0.3	false
+CashRegisterM	CR_2;CR_3;CR_4;CR_5;	0.3	false
+
+
+anim_sheet14	SubMachineGun.gif	0	0	130	50	0	0
+SMG_1	-	0	anim_sheet14	0	-
+SMG_2	-	0	anim_sheet14	1	-
+SMG_3	-	0	anim_sheet14	2	-
+SubMachineGun	SMG_1;	0.3	false
+SubMachineGunA	SMG_1;SMG_2;SMG_3;	0.3	false
+
+
+anim_sheet15	Pizzooka.gif	0	0	145	69	0	0
+PZ_1	-	0	anim_sheet15	0	-
+PZ_2	-	0	anim_sheet15	1	-
+PZ_3	-	0	anim_sheet15	2	-
+PZ_4	-	0	anim_sheet15	3	-
+PZ_5	-	0	anim_sheet15	4	-
+PZ_6	-	0	anim_sheet15	5	-
+PZ_7	-	0	anim_sheet15	6	-
+PZ_8	-	0	anim_sheet15	7	-
+Pizzooka	PZ_1;	0.3	false
+PizzookaA	PZ_2;PZ_3;PZ_4;PZ_5;PZ_6;PZ_7;PZ_8;	0.083	false
+
+anim_sheet16	PizzookaBullet.gif	0	0	91	91	0	0
+PZB_1	-	0	anim_sheet16	0	-
+PZB_2	-	0	anim_sheet16	1	-
+PZB_3	-	0	anim_sheet16	2	-
+PZB_4	-	0	anim_sheet16	3	-
+PZB_5	-	0	anim_sheet16	4	-
+PZB_6	-	0	anim_sheet16	5	-
+PZB_7	-	0	anim_sheet16	6	-
+PZB_8	-	0	anim_sheet16	7	-
+PZB_9	-	0	anim_sheet16	8	-
+PZB	PZB_1;PZB_2;PZB_3;PZB_4;PZB_5;PZB_6;PZB_7;PZB_8;PZB_9;	0.3	false
+
+
+anim_sheet17	EggRoll.gif	0	0	48	101	0	0
+ER_1	-	0	anim_sheet17	0	-
+ER_2	-	0	anim_sheet17	1	-
+ER_3	-	0	anim_sheet17	2	-
+ER	ER_1;ER_2;ER_3;	0.3	false
+
+
+anim_sheet18	CheeseWall.gif	0	0	67	94	0	0
+CW_1	-	0	anim_sheet18	0	-
+CW_2	-	0	anim_sheet18	1	-
+CW_3	-	0	anim_sheet18	2	-
+CWA	CW_1;	0.3	false
+CWB	CW_2;	0.3	false
+CWC	CW_3;	0.3	false
+
+
+anim_sheet19	HotDynamiteDog.gif	0	0	72	37	0	0
+HDD_1	-	0	anim_sheet19	0	-
+HDD	HDD_1;	0.3	false
+
+
+anim_sheet20	HDDE.gif	0	0	362	330	0	0
+HDDE_1	-	0	anim_sheet20	0	-
+HDDE	HDDE_1;	0.3	false
+
+
+anim_sheet21	FoodBox.gif	0	0	70	104	0	0
+FB_1	-	0	anim_sheet21	0	-
+FB	FB_1;	0.3	false
+
+
+
+
+
+
+
+
+
